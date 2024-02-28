@@ -26,6 +26,6 @@ group :development do
 end
 
 group :test do
-  gem 'capybara', '~> 2.7', '>= 2.7.1'
+  gem 'capybara', '~> 3.26'
   gem 'simplecov', require: false
 end
